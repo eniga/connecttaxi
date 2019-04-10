@@ -1,1 +1,33 @@
 /* You can add global styles to this file, and also import other style files */
+.free-quote .form-control {
+    border: 2px solid rgba(255, 255, 255, 0.5);
+    background: none;
+    color: rgba(255, 255, 255, 0.6);
+}
+
+.control-label {
+    color: #ffffff;
+}
+
+.breadcrumb-custom {
+    font-weight: 1200;
+    font-size: 2rem;
+}
+
+.site-blocks-cover p {
+    color: rgba(255, 255, 255, 0.5);
+    font-size: 2rem;
+    font-weight: 1200;
+    line-height: 1.5;
+}
+/* 
+.breadcrumb-custom:hover {
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+    color: #f89d13;
+}
+
+.breadcrumb-custom:hover a {
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+    color: #f89d13;
+} */
+
